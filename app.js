@@ -126,5 +126,5 @@ function Runbot() {
     
 Runbot();
 
-// setInterval(Runbot, 1000*60*60*24*7);
-setInterval(tweettip, 1000*20);
+setInterval(Runbot, 1000*60*60*24*7);
+// setInterval(tweettip, 1000*20);
